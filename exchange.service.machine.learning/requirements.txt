@@ -37,7 +37,7 @@ numpy==1.18.3
 opt-einsum==3.2.1
 pandas==1.0.3
 prompt-toolkit==1.0.14
-protobuf==3.11.3
+protobuf==3.18.3
 pycodestyle==2.5.0
 pycparser==2.20
 Pygments==2.6.1
